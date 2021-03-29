@@ -12,6 +12,7 @@
 .App .card {
   background: black;
   width: 25%;
+  padding: 10px;
   margin: auto;
   display: flex;
   justify-content: space-around;
@@ -97,4 +98,11 @@ input:checked + .slider:before {
   margin-top: 7px;
   margin-left: 5px;
   
+}
+
+
+@media only screen and (max-width: 750px){
+  .App .card {
+    width: 90%;
+  }
 }
