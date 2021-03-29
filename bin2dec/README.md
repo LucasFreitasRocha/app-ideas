@@ -2,7 +2,7 @@
 
 Aplicação para tronsfomar binario para decimal e decimal para binario 
 
-**Demo**: [netlify](https://hardcore-varahamihira-178319.netlify.app/)
+**Demo**: [Vercel](https://bin2dec-ten.vercel.app/)
 
 **Tier:** 1-Beginner
 
